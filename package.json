@@ -15,6 +15,9 @@
   },
   "name": "captains_log",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "main": "server.js",
   "keywords": [],
   "author": "",
