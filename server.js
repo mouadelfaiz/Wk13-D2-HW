@@ -5,6 +5,7 @@ const methodOverride = require("method-override");
 const logController = require("./controllers/logs")
 // const foodData = require("./utilities/foodData");
 
+app.use('/public/css',express.static(__dirname +'/public/css'));
 
 const dotenv = require("dotenv");
 dotenv.config();

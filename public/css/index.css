@@ -1,0 +1,24 @@
+.log-link {
+  text-decoration: none;
+  color: #333;
+  display: block;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.log-title {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.log-entry {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.log-author {
+  font-style: italic;
+}

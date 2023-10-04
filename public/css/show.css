@@ -1,0 +1,51 @@
+.log-details {
+  margin-bottom: 20px;
+}
+
+.log-title {
+  font-size: 24px;
+}
+
+.log-date,
+.log-time {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #888;
+}
+
+.log-entry {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.log-author {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.delete-button {
+  background-color: #ff5555;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #dd3333;
+}
+
+.edit-link {
+  text-decoration: none;
+  color: #333;
+  background-color: #55aaff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.edit-link:hover {
+  background-color: #0077cc;
+  color: white;
+}
